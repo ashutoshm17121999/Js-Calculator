@@ -1,0 +1,33 @@
+#container{
+    display: flex;
+    flex-direction: row;
+    width: 30%;
+    align-items: center;
+    margin-left: 10%;
+    
+
+}
+#wrapper{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 10%;
+    overflow: hidden;
+}
+#l1{
+    padding: 3%;
+    background-color: rgb(118, 118, 118);
+    margin: 2%;
+    width: 50%;
+    
+}
+#ac{
+    padding: 2.4%;
+    padding-top: 3.6%;
+    background-color: pink;
+}
+#result{
+    display: flex;
+    overflow: hidden;
+    font-size: 350%;
+}
